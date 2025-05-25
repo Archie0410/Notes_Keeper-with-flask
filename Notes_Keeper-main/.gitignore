@@ -1,8 +1,0 @@
-# Ignore Python environment & config
-backend/venv/
-backend/.env
-
-# Node modules
-node_modules/
-build/
-.env
